@@ -1,0 +1,62 @@
+[
+    {
+        "studentUsername": "1234",
+        "subject": "Social Studies",
+        "timestamp": 1772322177116,
+        "institutionId": "AR-CRAIGHEAD-01",
+        "deviceId": "DEV-598f3789",
+        "server_received_at": "2026-02-28 17:49:34.248825"
+    },
+    {
+        "studentUsername": "1234",
+        "subject": "Mathematical Reasoning",
+        "timestamp": 1772322161378,
+        "institutionId": "AR-CRAIGHEAD-01",
+        "deviceId": "DEV-598f3789",
+        "server_received_at": "2026-02-28 17:49:34.248880"
+    },
+    {
+        "studentUsername": "1234",
+        "subject": "Social Studies",
+        "timestamp": 1772322177116,
+        "institutionId": "AR-CRAIGHEAD-01",
+        "deviceId": "DEV-598f3789",
+        "server_received_at": "2026-02-28 17:49:50.063984"
+    },
+    {
+        "studentUsername": "1234",
+        "subject": "Mathematical Reasoning",
+        "timestamp": 1772322161378,
+        "institutionId": "AR-CRAIGHEAD-01",
+        "deviceId": "DEV-598f3789",
+        "server_received_at": "2026-02-28 17:49:50.064004"
+    },
+    {
+        "studentUsername": "PokeBayouFarms",
+        "subject": "Social Studies",
+        "timestamp": 1772334366459,
+        "institutionId": "UACCB-Batesville",
+        "deviceId": "AR-EDGE-NODE"
+    },
+    {
+        "studentUsername": "PokeBayouFarms",
+        "subject": "Social Studies",
+        "timestamp": 1772334413753,
+        "institutionId": "UACCB-Batesville",
+        "deviceId": "AR-EDGE-NODE"
+    },
+    {
+        "studentUsername": "PokeBayouFarms",
+        "subject": "Social Studies",
+        "timestamp": 1772340561514,
+        "institutionId": "ASU-Jonesboro",
+        "deviceId": "AR-EDGE-NODE"
+    },
+    {
+        "studentUsername": "PokeBayouFarms",
+        "subject": "Math",
+        "timestamp": 1772340592073,
+        "institutionId": "ASU-Jonesboro",
+        "deviceId": "AR-EDGE-NODE"
+    }
+]
