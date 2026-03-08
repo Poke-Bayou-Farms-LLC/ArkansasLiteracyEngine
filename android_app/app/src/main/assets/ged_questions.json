@@ -1,0 +1,79 @@
+[
+  {
+    "subject": "Mathematical Reasoning",
+    "passage": "",
+    "question": "A local Arkansas farm produces 450 bushels of soybeans per acre. If the farmer plants 12 acres and sells the yield at $14 per bushel, what is the total revenue?",
+    "optionA": "$5,400",
+    "optionB": "$6,300",
+    "optionC": "$75,600",
+    "optionD": "$84,000",
+    "correctAnswer": "C",
+    "explanation": "Multiply yield by acres to get total bushels: 450 * 12 = 5,400. Then multiply total bushels by price: 5,400 * $14 = $75,600."
+  },
+  {
+    "subject": "Reasoning Through Language Arts",
+    "passage": "The concept of 'Edge Computing' is fundamentally changing how rural communities interact with artificial intelligence. By moving the processing power away from centralized cloud servers and placing it directly on local devices, schools in areas with limited broadband can access high-tier AI tutors without latency. This decentralization reduces bandwidth costs and ensures uninterrupted learning.",
+    "question": "Based on the passage, what is the primary benefit of Edge Computing for rural schools?",
+    "optionA": "It forces students to learn about computer hardware.",
+    "optionB": "It provides uninterrupted AI access despite poor internet connectivity.",
+    "optionC": "It increases the need for high-speed broadband.",
+    "optionD": "It centralizes all data into a single cloud server.",
+    "correctAnswer": "B",
+    "explanation": "The text explicitly states that edge computing allows schools with 'limited broadband' to access AI 'without latency' and ensures 'uninterrupted learning'."
+  },
+  {
+    "subject": "Science",
+    "passage": "",
+    "question": "Which of the following cellular processes is primarily responsible for converting glucose into usable ATP energy in the human body?",
+    "optionA": "Photosynthesis",
+    "optionB": "Cellular Respiration",
+    "optionC": "Mitosis",
+    "optionD": "Osmosis",
+    "correctAnswer": "B",
+    "explanation": "Cellular respiration is the process by which organisms use oxygen to break down food molecules (like glucose) to get chemical energy for cell functions in the form of ATP."
+  },
+  {
+    "subject": "Social Studies",
+    "passage": "",
+    "question": "The principle of 'Federalism' in the United States Constitution refers to which of the following?",
+    "optionA": "The division of power between the national government and state governments.",
+    "optionB": "The separation of powers between the Executive, Legislative, and Judicial branches.",
+    "optionC": "The direct election of Senators by the voting public.",
+    "optionD": "The power of the Supreme Court to declare laws unconstitutional.",
+    "correctAnswer": "A",
+    "explanation": "Federalism is a system of government in which the same territory is controlled by two levels of government (national and state)."
+  }
+  ,
+    {
+      "subject": "Mathematical Reasoning",
+      "passage": "",
+      "question": "A local Arkansas farm produces 450 bushels of soybeans per acre. If the farmer plants 12 acres and sells the yield at $14 per bushel, what is the total revenue?",
+      "optionA": "$5,400", "optionB": "$6,300", "optionC": "$75,600", "optionD": "$84,000",
+      "correctAnswer": "C",
+      "explanation": "Multiply yield by acres (450 * 12 = 5,400). Then multiply by price (5,400 * 14 = 75,600)."
+    },
+    {
+      "subject": "Science",
+      "passage": "Cellular respiration is the process by which cells convert glucose and oxygen into energy (ATP), carbon dioxide, and water. This process occurs primarily in the mitochondria.",
+      "question": "In which part of the cell does the majority of energy production occur?",
+      "optionA": "Nucleus", "optionB": "Mitochondria", "optionC": "Ribosomes", "optionD": "Cell Wall",
+      "correctAnswer": "B",
+      "explanation": "The passage states that cellular respiration occurs primarily in the mitochondria."
+    },
+    {
+      "subject": "Social Studies",
+      "passage": "The Arkansas Constitution of 1874 established the framework for the state's government, emphasizing limited government and local control following the Reconstruction era.",
+      "question": "What was a primary focus of the 1874 Arkansas Constitution?",
+      "optionA": "Expanding federal power", "optionB": "Abolishing local taxes", "optionC": "Limiting government power", "optionD": "Creating a state-run church",
+      "correctAnswer": "C",
+      "explanation": "The text notes an emphasis on 'limited government and local control'."
+    },
+    {
+      "subject": "Reasoning Through Language Arts",
+      "passage": "Edge Computing allows AI to run locally on devices like tablets in Batesville or Jonesboro, rather than relying on far-away servers in Virginia or California. This ensures that even when the internet is slow, the learning never stops.",
+      "question": "According to the text, what is a benefit of running AI locally?",
+      "optionA": "It requires more internet speed.", "optionB": "It allows learning to continue during slow internet.", "optionC": "It is only available in California.", "optionD": "It makes the tablets heavier.",
+      "correctAnswer": "B",
+      "explanation": "The text explicitly states it ensures 'the learning never stops' even when internet is slow."
+    }
+  ]
